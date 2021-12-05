@@ -2,7 +2,7 @@
   "name": "meetCITAD_Backend",
   "version": "1.0.0",
   "description": "The back-end structure of the meetCitad site with database implimentation",
-  "main": "index.js",
+  "main": "main.js",
   "author": "Abdurrazaq Jibril Baba",
   "license": "MIT",
   "scripts": {
